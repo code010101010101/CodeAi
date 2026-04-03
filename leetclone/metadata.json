@@ -1,0 +1,5 @@
+{
+  "name": "LeetClone",
+  "description": "A high-fidelity LeetCode clone featuring a problem list, interactive code editor, and user profiles.",
+  "requestFramePermissions": []
+}
